@@ -3,6 +3,7 @@ import App from './App.vue'
 import router from './router'
 import './plugins/element.js'
 import './assets/css/gobal.css'
+import './assets/css/someele.less'
 
 Vue.config.productionTip = false
 
